@@ -1,4 +1,4 @@
-// File: C:\Users\magub\Desktop\jobtrail\jobtrail-frontend\app\dashboard\applications\page.tsx
+// File: C:\nn\jobtrail\jobtrail-frontend\app\dashboard\applications\page.tsx
 import * as entry from '../../../../../app/dashboard/applications/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
